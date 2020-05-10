@@ -5,6 +5,11 @@
     color:darkblue;
 }
 
+.content {
+    max-width: 500px;
+    margin: auto;
+}
+
 input[type="button"]
 {
     background-color:lightcyan;
@@ -16,4 +21,8 @@ input[type="text"]
 {
     background-color:white;
     width:100%
+}
+
+form {
+    display: inline-block;
 }
